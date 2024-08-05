@@ -42,7 +42,7 @@ After hyperparameter tuning the Decision Tree model came with an accuracy of 100
 
 ### Neural Network Model
 After the evaluation of classifier models, a simple Neural Network model was trained and evaluated with the MSE score.
-The MSE score for the Sequential model came around 0.012 which seems low and signifies the model can predict really well with low score.
+The MSE score for the Sequential model came around 0.012 which seems low and signifies the model can predict really well with proximity score.
 
 ### Next steps and Recommendations:
 
